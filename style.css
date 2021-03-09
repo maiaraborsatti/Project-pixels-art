@@ -5,3 +5,19 @@
     margin: 5px;
     display: inline-block;
 }
+
+#black {
+    background-color: black;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
