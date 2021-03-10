@@ -7,8 +7,7 @@ function creatBoxes() {
         box.className = 'pixel';
         dad.appendChild(box);
     }
-      let line = document.createElement('div');
-      line.className = 'line';
+      let line = document.createElement('br');
       dad.appendChild(line);
   }
 }
